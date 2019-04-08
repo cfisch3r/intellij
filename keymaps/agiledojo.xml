@@ -1,0 +1,11 @@
+<keymap version="1" name="agiledojo" parent="Mac OS X 10.5+">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta u_with_diaeresis" />
+  </action>
+  <action id="MaximizeToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta quote" />
+    <keyboard-shortcut first-keystroke="shift meta u_with_diaeresis" />
+  </action>
+</keymap>
