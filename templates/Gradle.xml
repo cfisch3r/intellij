@@ -1,0 +1,10 @@
+<templateSet group="Gradle">
+  <template name="ju" value="dependencies {&#10;    testImplementation platform('org.junit:junit-bom:5.4.2')&#10;    testImplementation 'org.junit.jupiter:junit-jupiter'&#10;    testImplementation 'org.assertj:assertj-core:3.11.1'&#10;}&#10;&#10;test {&#10;    useJUnitPlatform()&#10;    testLogging {&#10;        events &quot;passed&quot;, &quot;skipped&quot;, &quot;failed&quot;&#10;    }&#10;}" description="junit 5 configuration" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="GROOVY_DECLARATION" value="false" />
+      <option name="GROOVY_EXPRESSION" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+    </context>
+  </template>
+</templateSet>
