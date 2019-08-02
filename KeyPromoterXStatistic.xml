@@ -81,6 +81,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Manual container configuration: MessageRepositoryIT'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Manual container configuration: MessageRepositoryIT'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Manual container configuration: ReisekettenServiceIT'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
