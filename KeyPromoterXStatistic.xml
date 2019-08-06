@@ -89,6 +89,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Manual container configuration: RabbitMqRouteIT'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Manual container configuration: RabbitMqRouteIT'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Manual container configuration: ReisekettenServiceIT'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
