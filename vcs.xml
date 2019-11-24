@@ -6,6 +6,10 @@
           <option name="url" value="http://git.tech.rz.db.de" />
           <option name="userName" value="ChristianAEFischer" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="cfisch3r" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
