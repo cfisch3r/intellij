@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '.../reiseketten-service-impl/src/main/java/de/db/sab/kira/service/reiseketten/query/converting [reiseketten-service-impl]'" />
+    <option name="defaultScopeName" value="Directory '.../reiseketten-service-impl/src/main/java/de/db/sab/kira/service/reiseketten/query/converting [reiseketten-service-impl]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../reiseketten-service-impl/src/main/java/de/db/sab/kira/service/reiseketten/query/converting [reiseketten-service-impl]'" />
   </component>
 </application>
