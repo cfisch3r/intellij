@@ -2,6 +2,7 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta #10000fc" />
   </action>
   <action id="MaximizeToolWindow">
     <keyboard-shortcut first-keystroke="shift meta quote" />
