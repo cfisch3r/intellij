@@ -1,0 +1,7 @@
+<profile version="1.0">
+  <option name="myName" value="agiledojo" />
+  <inspection_tool class="FunctionName" enabled="true" level="WARNING" enabled_by_default="true">
+    <scope name="Tests" level="TYPO" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="TestFunctionName" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+</profile>
