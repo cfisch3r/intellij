@@ -3,6 +3,7 @@
     <option name="mapping">
       <map>
         <entry key="https://bahnhub.tech.rz.db.de/artifactory/Maven-Central-remote/org/apache/maven/apache-maven/3.8.5/apache-maven-3.8.5-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.8.5-bin/1hrepobehl2ve4cg9cl9q9j9cf/apache-maven-3.8.5" />
+        <entry key="https://bahnhub.tech.rz.db.de:443/artifactory/default-maven-3rdparty/org/apache/maven/apache-maven/3.8.1/apache-maven-3.8.1-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.8.1-bin/pu3knt5qta79fm41kdsps2s38/apache-maven-3.8.1" />
         <entry key="https://bahnhub.tech.rz.db.de:443/artifactory/default-maven-3rdparty/org/apache/maven/apache-maven/3.8.5/apache-maven-3.8.5-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.8.5-bin/64ekdmej2fht6bvmcmsmmof14j/apache-maven-3.8.5" />
         <entry key="https://bahnhub.tech.rz.db.de:443/artifactory/sab-maven-3rdparty/org/apache/maven/apache-maven/3.8.6/apache-maven-3.8.6-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.8.6-bin/1nkdsdohc16a7v77onetpigkl5/apache-maven-3.8.6" />
       </map>
