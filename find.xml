@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '… [webssomock-junit5]'" />
-    <option name="defaultScopeName" value="Directory '… [webssomock-junit5]'" />
-    <option name="SEARCH_SCOPE" value="Directory '… [webssomock-junit5]'" />
+    <option name="customScope" value="Project 'webssomock-junit5'" />
+    <option name="defaultScopeName" value="Project 'webssomock-junit5'" />
+    <option name="SEARCH_SCOPE" value="Project 'webssomock-junit5'" />
   </component>
 </application>
